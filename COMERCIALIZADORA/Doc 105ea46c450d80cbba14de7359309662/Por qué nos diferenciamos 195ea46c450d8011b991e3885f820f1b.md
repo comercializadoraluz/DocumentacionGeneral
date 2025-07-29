@@ -1,0 +1,35 @@
+# Por qué nos diferenciamos
+
+- Iberdrola, endesa y naturgy es una mierda
+- transparencia
+- Nos unimos al grupo de empresa como octopus que traen transparencia al mercado
+- No instalamos renovables
+- No instalamos aerotermia
+- Podríamos tener clientes solar (pero no instalarlo nosotros)
+- Octopus tiene tarifas solar que no tienen placas (algo raro)
+- Tienen muchos premios (podríamos no tener ninguno solo diferidos)
+- Transparencia total en beneficios…
+- Enseñamos programación
+- En truspli tiene buenas opiniones
+- venden software de comercializadoras
+- nuestra propia historia individual
+    - Juanmi: No falta de dinero, pero si falta de trabajo y tirarme a la piscina yendo a madrid, con respecto a la comer y fran, y por qué no?
+    - Fran: Falta de dinero, emprender, ideas millonarias.. fijarme en mi propio sector y mejorarlo. reducir el numero de arrepentimientos
+- mas organico (menos publicidad)
+- atencion al cliente, agente
+- formacion otros ambitos,
+- mas proyectos
+- Objetivos:
+    - Mas banales:
+        - Forma de ganarnos la vida y mejorar la vida de nuestros seres queridos
+    - Mas altos, propositos mas grandes:
+        - Formación: enseñar programación e incitar a las personas a crear sus propios negocios
+        - Nuevo modelos de negocio basado en transparencia y honestidad
+        - Propósito de crear empresa a futuro que pudiesen contribuir a resolver los problemas actuales de la humanidad:
+            - Salud mental
+            - Inteligencia artificial visual (para búsqueda de patrones)
+                - Baterías
+                - Medicinas o enfermedades(curas)
+                - Plástico
+            - Democracia
+            - Explorar el feminismo
