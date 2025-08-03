@@ -43,7 +43,7 @@
             - Precios peajes (potencia/energia distribucion/transporte)
             - Excesos de potencia
                 - Si hay cambio de potencia o cambio de temporada, se tendrá en cuenta (obvio)
-                - Si se cambia de comercializadora, el recargo por exceso de potencia, lo pagará la comercializadora entrante (Sí, pagará parte la entrante, aunque no fuera cliente suyo todavía) (NO tan obvio)
+                - Si se cambia de comercializadora, el recargo por exceso de potencia, lo pagará la COMERCIALIZADORAentrante (Sí, pagará parte la entrante, aunque no fuera cliente suyo todavía) (NO tan obvio)
             - Coeficientes de discriminación por periodo:
                 
                 ![image.png](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image%202.png)
@@ -183,7 +183,7 @@ Real Decreto 1011/2009, de 19 de junio, por el que se regula la Oficina de Cambi
 
 [Déficit de tarifa](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/De%CC%81ficit%20de%20tarifa%2019eea46c450d80ef9484e6ccc8cacc13.md)
 
-[Resolución de dudas: PVPC, TUR, CUR, comercializadora de referencia, comercializadora de ultimo recurso…](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/Resolucio%CC%81n%20de%20dudas%20PVPC,%20TUR,%20CUR,%20comercializad%2018eea46c450d8037a8edc1a6f0b54a89.md)
+[Resolución de dudas: PVPC, TUR, CUR, COMERCIALIZADORAde referencia, COMERCIALIZADORAde ultimo recurso…](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/Resolucio%CC%81n%20de%20dudas%20PVPC,%20TUR,%20CUR,%20comercializad%2018eea46c450d8037a8edc1a6f0b54a89.md)
 
 - Códigos QR en la factura
     

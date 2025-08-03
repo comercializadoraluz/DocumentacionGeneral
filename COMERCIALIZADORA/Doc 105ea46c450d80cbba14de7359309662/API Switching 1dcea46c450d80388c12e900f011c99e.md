@@ -1,7 +1,7 @@
 # API Switching
 
 Como primeros pasos:
-1.4 módulo archivos intercambios comercializadora (C1,C2,M1,F1) (procesamiento) (Leer(pasos de distri) y escribir(pasos de comer))(Pasos1,2,3,5 y 6 del C1,C2,M1)
+1.4 módulo archivos intercambios COMERCIALIZADORA(C1,C2,M1,F1) (procesamiento) (Leer(pasos de distri) y escribir(pasos de comer))(Pasos1,2,3,5 y 6 del C1,C2,M1)
 Un solo bucket, se levanta una lambda por fichero (Se puede limitar el número de veces simultáneas que una lambda que se puede levantar, con 6h en una cola interna, sin pagar de mas)
 
 - Un Buckect
