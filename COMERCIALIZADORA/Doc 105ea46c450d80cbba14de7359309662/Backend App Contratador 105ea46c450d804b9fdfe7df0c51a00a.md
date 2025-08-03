@@ -110,3 +110,12 @@ bases de datos de contratador:
     - id_cliente
 - producto
     - Por ahora solo hay un producto, indexado
+
+
+condiciones generales
+de este estilo son todas
+https://comercializadora.electricadecadiz.es/media/1/docs/condiciones-generales-del-contrato-del-suministro-electrico.pdf
+
+el contrato tiene mas parte pero una de ellas son las condiciones generales, que muchas la ponen en estos dos BOEs
+
+https://www.boe.es/buscar/act.php?id=BOE-A-2002-25422
