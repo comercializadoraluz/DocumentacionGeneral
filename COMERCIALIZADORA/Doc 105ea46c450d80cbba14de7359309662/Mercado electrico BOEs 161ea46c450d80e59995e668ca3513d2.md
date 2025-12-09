@@ -153,6 +153,11 @@ Real Decreto 1011/2009, de 19 de junio, por el que se regula la Oficina de Cambi
             - Clasificación del punto de suministro (tipo 1,2,3,4 o 5)
             aquí se define, existe una table en nuestra DB con descripción [https://www.boe.es/buscar/act.php?id=BOE-A-2007-16478](https://www.boe.es/buscar/act.php?id=BOE-A-2007-16478)
 
+
+- Orden TEC/1172/2018, de 5 de noviembre, por la que se redefinen los sistemas eléctricos aislados del territorio no peninsular de las Illes Balears y se modifica la metodología de cálculo del precio de adquisición de la demanda y del precio de venta de la energía en el despacho de producción de los territorios no peninsulares.
+ https://www.boe.es/buscar/act.php?id=BOE-A-2018-15515
+    - Aquí es donde se promulga que las islas baleares es un solo subsistema Mallorca-Menorca-Ibiza-Formentera.	
+
 # Procedimientos de operación
 
 - **Resolución de 8 de agosto de 2022, de la Secretaría de Estado de Energía, por la que se aprueban procedimientos de operación, para su adaptación a mejoras en relación con las garantías exigidas a los sujetos participantes en el mercado, y a mejoras en la gestión técnica de las medidas en el sistema eléctrico.**
