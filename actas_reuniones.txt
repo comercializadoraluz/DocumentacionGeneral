@@ -1,0 +1,6 @@
+2026-06-30
+Decidimos usar Odoo en vez de notion para documentación y usar Odoo en vez de trello o jira para gestión de tareas.
+Tarea para próxima reu -> Tener clonado el repo de Comercializadora/odoo al que le hemos hecho un fork.
+
+2026-07-03
+Será la próxima reu
