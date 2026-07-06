@@ -9,7 +9,7 @@
 - CARGOS (Cargos, Pagos por capacidad, pago a OMIE y bono social)
     - **Real Decreto 148/2021, de 9 de marzo, por el que se establece la metodología de cálculo de los cargos del sistema eléctrico.** [https://www.boe.es/eli/es/rd/2021/03/09/148/con](https://www.boe.es/eli/es/rd/2021/03/09/148/con)
         
-        ![image.png](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image.png)
+        ![image.png](COMERCIALIZADORA/Doc/Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image.png)
         
     - **(OK) Orden TED/1487/2024, de 26 de diciembre, por la que se establecen los precios de los cargos del sistema eléctrico y se establecen diversos costes regulados del sistema eléctrico para el ejercicio 2025 y por la que se aprueba el reparto de las cantidades a financiar relativas al bono social y al coste del suministro de electricidad de los consumidores a que hacen referencia los artículos 52.4.j) y 52.4.k) de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, correspondiente al año 2025.**
     [https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-27289](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-27289)
@@ -88,7 +88,7 @@
         - Red eléctrica de España, Sociedad Anónima, como operador del sistema y gestor de la red de transporte. Obligaciones.
         - Calidad de servicio: Definición de ENS(Energía no suministrada), TIM(Tiempo de interrupción medio) y ID(Indice de disponibilidad). Valores de referencia:
             
-            ![image.png](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image%203.png)
+            ![image.png](COMERCIALIZADORA/Doc/Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image%203.png)
             
         - Importante, CAPÍTULO VI PÉRDIDAS EN LA RED DE TRANSPORTE
         A las ofertas de compra(previsiones) hay que sumarles las pérdidas y por tanto también a las facturas. Hay pérdidas para cada día(No se m
@@ -117,7 +117,7 @@ Real Decreto 1011/2009, de 19 de junio, por el que se regula la Oficina de Cambi
         
         La oficina ya no existe, las labores la hace la CNMC. De la ley del sector eléctrico de 2013 [https://www.boe.es/buscar/act.php?id=BOE-A-2013-13645](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13645)
         
-        ![image.png](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image%204.png)
+        ![image.png](image%204.png)
         
         - No tan importante
             - La Oficina de Cambios de Suministrador es una sociedad mercantil destinada a garantizar que el derecho al cambio del suministrador de los consumidores de gas se ejerza bajo los principios de transparencia, objetividad e independencia, y que realiza sus funciones simultáneamente en los sectores del gas natural y de la electricidad.
@@ -125,11 +125,11 @@ Real Decreto 1011/2009, de 19 de junio, por el que se regula la Oficina de Cambi
             - (DUDA) Habría que saber cuál información  y cuál no ha de considerarse comercialmente sensible, por si alguna vez nos la piden
             - Los datos sobre cambios hay que tenerlos controlados porque la oficina de cambios de suministrador nos lo puede pedir en cualquier momento:
                 
-                ![image.png](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image%205.png)
+                ![image.png](image%205.png)
                 
             - El accionariado de esta sociedad anónima se forma por :(Ya esta oficina no existe asi que no importa)
                 
-                ![image.png](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image%206.png)
+                ![image.png](image%206.png)
                 
             - Los informes que crea la oficina de cambios de suministrador le llegan a los socios 10 días antes. 
             Supuestamente tenemos derecho a ser parte del accionariado aunque seamos pequeños… no sé qué cosas implica desde el punto de vista económico… pero nos enteraríamos mas y antes de cambios regulatorios e informes de actualidad del sector. Como ya no existe la oficina, entiendo que ni caso a este apartado.
@@ -139,7 +139,7 @@ Real Decreto 1011/2009, de 19 de junio, por el que se regula la Oficina de Cambi
             Están todos los campos que devuelven las distribuidoras, importante leerlo para ver qué info necesitamos**
             - Uno de los objetivos de la oficina de cambios de suministrador es ceder gratuitamente información relativa a la base de datos de suministro de cualquier empresa distribuidora y IMPORTANTE, los clientes en situación de impago aparecerán en esa base de datos
                 
-                ![image.png](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/image%207.png)
+                ![image.png](image%207.png)
                 
         - Campos que debe guardar la distribuidora
             - CUPS
@@ -197,7 +197,7 @@ Real Decreto 1011/2009, de 19 de junio, por el que se regula la Oficina de Cambi
 
 [Webs de comercializadoras para entender las factura de la luz](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/Webs%20de%20comercializadoras%20para%20entender%20las%20factur%2018eea46c450d80e6a646fef65d289642.md)
 
-[Glosario](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/Glosario%201a5ea46c450d80bbaac2d479046a6a5c.md)
+[Glosario](Glosario%201a5ea46c450d80bbaac2d479046a6a5c.md)
 
 [Calendario Liquidaciones 2025](https://www.ree.es/sites/default/files/12_CLIENTES/Documentos/CalendarioLiquidaciones2025.pdf?utm_source=chatgpt.com)
 

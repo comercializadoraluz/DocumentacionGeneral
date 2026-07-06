@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "2c8b493568c35383",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b18ab261e6c49a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e64a398c9512c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMERCIALIZADORA/Repos Wiki 1a0ea46c450d80668798f10dfc706f72/🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "337628d758bd08bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "700b9da6efabe447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50015a1244f4998c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9d129b35cb62f907",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "883fcf9af27842c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 468.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d47bb8589d7aaf87",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb869ddbc24b976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46fb3c721e127f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMERCIALIZADORA/Repos Wiki 1a0ea46c450d80668798f10dfc706f72/🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387"
+            }
+          },
+          {
+            "id": "08ea9a2d63cac6cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMERCIALIZADORA/Repos Wiki 1a0ea46c450d80668798f10dfc706f72/🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387"
+            }
+          },
+          {
+            "id": "ee154de239771d80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "aa5a074214f51553",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "8964b92087a28979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMERCIALIZADORA/Repos Wiki 1a0ea46c450d80668798f10dfc706f72/🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "12e64a398c9512c9",
+  "lastOpenFiles": [
+    "COMERCIALIZADORA/Doc/CONFIGURACIÓN INICIAL/Sin título.md",
+    "COMERCIALIZADORA/Repos Wiki 1a0ea46c450d80668798f10dfc706f72/🛠️ Guia para Configurar el Proyecto en DevContain 1a0ea46c450d80129442c6667b09e387.md",
+    "Sin título.base",
+    "2026-07-06.md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "COMERCIALIZADORA/Doc/CONFIGURACIÓN INICIAL/Clonar el repo + firma del commit.md",
+    "COMERCIALIZADORA/Doc/Backend App Contratador 105ea46c450d804b9fdfe7df0c51a00a/image.png",
+    "COMERCIALIZADORA/Doc/CONFIGURACIÓN INICIAL",
+    "COMERCIALIZADORA/Reglas 167ea46c450d80f2878ecd593859bf8e/Reglas de tablas maestras 167ea46c450d80afa72ccf0b6007d9aa.md",
+    "COMERCIALIZADORA/Reglas 167ea46c450d80f2878ecd593859bf8e/Reglas generales 167ea46c450d80e6b343ef45fab9183e.md",
+    "README.md"
+  ]
+}

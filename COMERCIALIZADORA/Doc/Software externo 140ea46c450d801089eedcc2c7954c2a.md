@@ -2,7 +2,7 @@
 
 Open Source options
 
-[ODOO](Software%20externo%20140ea46c450d801089eedcc2c7954c2a/ODOO%2013fea46c450d809f87c3f6c62348e43c.md)
+[ODOO](ODOO%2013fea46c450d809f87c3f6c62348e43c.md)
 
 https://erpnext.com/
 
