@@ -3,7 +3,7 @@
 ODOO es un software libre para empresas, pero es que odoo (la empresa) lo pone tan barato:
 [https://www.odoo.com/es_ES/pricing](https://www.odoo.com/es_ES/pricing)
 
-![image.png](COMERCIALIZADORA/Doc/Software%20externo%20140ea46c450d801089eedcc2c7954c2a/ODOO%2013fea46c450d809f87c3f6c62348e43c/image.png)
+![image.png](COMERCIALIZADORA/Doc/Assets/Software%20externo/ODOO/image.png)
 
 Que sería innecesario ponerse a programar…
 

@@ -4,7 +4,7 @@ Para bajarte el repo → usa https (y no ssh porque en windows, para hacer pull 
 
 Por seguridad, ya que no usamos ssh, usamos la firma del commit ( hay que crearla en github)
 
-![image.png](COMERCIALIZADORA/Doc/Clonar%20el%20repo%20+%20firma%20del%20commit%2018dea46c450d8088a5e6e35cc3f1c9b6/image.png)
+![image.png](COMERCIALIZADORA/Doc/Assets//image.png)
 
 C:\Users\francisco.martinez\.ssh
 

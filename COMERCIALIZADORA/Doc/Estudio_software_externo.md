@@ -1,8 +1,10 @@
 # Software externo
 
+Este fue un estudio que hicimos.
+
 Open Source options
 
-[ODOO](ODOO%2013fea46c450d809f87c3f6c62348e43c.md)
+[ODOO](ODOO.md)
 
 https://erpnext.com/
 

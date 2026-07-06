@@ -12,7 +12,7 @@ Flujo de datos de APP contratador:
 
 Web contrador se conecta con la App contratador. App contratador se conecta con las apis de validador, solvencia, generador de pdfs y firma.
 
-![image.png](COMERCIALIZADORA/Doc/Backend%20App%20Contratador%20105ea46c450d804b9fdfe7df0c51a00a/image.png)
+![Backend_app_contratador_flujo.png](Backend_app_contratador_flujo.png)
 
 Datos necesarios:
 

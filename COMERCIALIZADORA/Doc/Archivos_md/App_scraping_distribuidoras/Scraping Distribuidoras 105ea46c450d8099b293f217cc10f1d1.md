@@ -22,7 +22,7 @@ van a cambiar los xmls, de neuro energia
 flujos: enlace de la cnmc → [https://cambiodecomercializador.cnmc.es/cnmc-e-v24-20191217-1](https://cambiodecomercializador.cnmc.es/cnmc-e-v24-20191217-1)
 buscar nuevos (no es preciso este procedimiento) en site:cambiodecomercializador.cnmc.es
 
-[xsd para leer y crear los xml](xsd%20para%20leer%20y%20crear%20los%20xml%20142ea46c450d8030a741e41b40eb1759.md)
+[xsd para leer y crear los xml](xsd_para_leer_y_crear_los_xml.md)
 
 xsd mirar si se puede obtener el xml completo con sus campos (en principio sí)
 
@@ -44,21 +44,21 @@ que hacer si cambia un campo de la tabla? _old? nuevo campo y el resto null?
 
 donde guardar las contraseñas? keeper api? Automatizar el cambio de contraseña periodico? guau (a veces se necesita el telefono movil)
 
-[AWS Secrets Manager o keeper api?](AWS%20Secrets%20Manager%20o%20keeper%20api%20142ea46c450d805da18bdf4a178ab97f.md)
+[AWS Secrets Manager o keeper api?](AWS_Secrets_Manager_vs_keeper_api.md)
 
 [https://github.com/gisce/switching/tree/master](https://github.com/gisce/switching/tree/master)
 
-![image.png](COMERCIALIZADORA/Doc/Scraping%20Distribuidoras%20105ea46c450d8099b293f217cc10f1d1/image.png)
+![image.png](COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image.png)
 
 Este esquema indica la idea de juanmi de una lambda por cada distri y otra lambda para procesar cada vez que haya un archivo en S3, un evento.
 
-![image.png](COMERCIALIZADORA/Doc/Scraping%20Distribuidoras%20105ea46c450d8099b293f217cc10f1d1/image%201.png)
+![image.png](COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image%201.png)
 
 Estructura de base de datos:
 https://chatgpt.com/share/673db0e4-f4f0-800d-8812-e3cf7aa00fa9
 
-![image.png](COMERCIALIZADORA/Doc/Scraping%20Distribuidoras%20105ea46c450d8099b293f217cc10f1d1/image%202.png)
+![image.png](COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image%202.png)
 
-![image.png](COMERCIALIZADORA/Doc/Scraping%20Distribuidoras%20105ea46c450d8099b293f217cc10f1d1/image%203.png)
+![image.png](COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image%203.png)
 
 Al leer el archivo de manera binaria obtenemos el hash, esto lo podemos usar para comparar con una tabla de fichero/hash (o con metadatos de S3) Y no tener que procesar todos los archivos que nos descargamos, solo aquellos que no tenemos en S3
