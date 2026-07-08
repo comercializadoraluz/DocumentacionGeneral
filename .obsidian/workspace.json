@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "42b18ab261e6c49a",
+        "id": "e2ca1d91c66c6abc",
         "type": "tabs",
         "children": [
           {
-            "id": "12e64a398c9512c9",
+            "id": "08ff574af97c4cbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMERCIALIZADORA/Doc/Archivos_md/Configuracion_inicial/Guia_para_configurar_proyecto_en_DevContainers.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Guia_para_configurar_proyecto_en_DevContainers"
-            }
-          },
-          {
-            "id": "620fff30c0eb1328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMERCIALIZADORA/Doc/Archivos_md/Tareas_mantenimiento/Manual_cron_jobs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manual_cron_jobs"
-            }
-          },
-          {
-            "id": "179f40f66ebacb4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMERCIALIZADORA/Doc/Archivos_md/Api_switching/Api_switching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Api_switching"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "si al clonar el repositorio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,19 +68,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
-            }
-          },
-          {
-            "id": "3e6d145ee3da2085",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Sin título.base",
-                "viewName": "Tabla"
-              },
-              "icon": "lucide-table",
-              "title": "Sin título"
             }
           }
         ]
@@ -136,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMERCIALIZADORA/Doc/Archivos_md/Api_switching/Api_switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Api_switching"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -155,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMERCIALIZADORA/Doc/Archivos_md/Api_switching/Api_switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Api_switching"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -198,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMERCIALIZADORA/Doc/Archivos_md/Api_switching/Api_switching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Api_switching"
+              "title": "Esquema"
             }
           }
         ]
@@ -225,55 +176,55 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "179f40f66ebacb4d",
+  "active": "08ff574af97c4cbe",
   "lastOpenFiles": [
-    "COMERCIALIZADORA/Doc/Archivos_md 1/Api_switching/Api_switching.md",
-    "COMERCIALIZADORA/Doc/Archivos_md/Api_switching/Api_switching.md",
-    "COMERCIALIZADORA/Doc/Cobrador 105ea46c450d80399727ddc90ca1ad7d.md",
-    "COMERCIALIZADORA/Doc/Compras de energia 105ea46c450d8067a4e7ee3a22b1fe31.md",
-    "COMERCIALIZADORA/Doc/Contratos 136ea46c450d803da416cc43b20744b1.md",
-    "COMERCIALIZADORA/Doc/Mercado electrico BOEs 161ea46c450d80e59995e668ca3513d2.md",
-    "Reflexiones_negocio/Por que nos diferenciamos.md",
-    "COMERCIALIZADORA/Doc/Archivos_md/App_cliente/Web Cliente.md",
-    "COMERCIALIZADORA/Doc/Archivos_md/Tareas_mantenimiento/Manual_cron_jobs.md",
-    "COMERCIALIZADORA/Doc/Printeador de Facturas.md",
-    "COMERCIALIZADORA/Doc/Archivos_md/Prevision de demanda.md",
-    "COMERCIALIZADORA/Doc/ODOO.md",
-    "COMERCIALIZADORA/Doc/Assets/Software externo/ODOO/image.png",
-    "Reflexiones_infra/AWS_Secrets_Manager_vs_keeper_api.md",
-    "COMERCIALIZADORA/Doc/Archivos_md/App_scraping_distribuidoras/Scraping Distribuidoras 105ea46c450d8099b293f217cc10f1d1.md",
-    "Sin nombre",
-    "COMERCIALIZADORA/Doc/Archivos_md/Api_switching/xsd_para_leer_y_crear_los_xml.md",
-    "Sin título 2.md",
+    "Mercado_electrico/Mercado_electrico.md",
+    "COMERCIALIZADORA/001_Marketing_redes_sociales/Marketing_ideas.md",
+    "Mercado_electrico/Terminos_de_factura.md",
+    "COMERCIALIZADORA/COMERCIALIZADORA.md",
+    "README_GENERAL.md",
+    "README.md",
+    "Mercado_electrico/Entérate_de_los_cambios_del_mercado_eléctrico.md",
+    "Mercado_electrico/Glosario.md",
+    "Mercado_electrico/Otros/Otros.md",
+    "Mercado_electrico/Otros",
+    "Mercado_electrico/Otros/Deficit_de_tarifa.md",
+    "Mercado_electrico/Otros/Rango_de_legislacion_en_españa.md",
+    "Mercado_electrico/Indice_BOEs.md",
+    "COMERCIALIZADORA/009_Web_cliente/009_Web_cliente.md",
+    "COMERCIALIZADORA/006_tesoreria_contabilidad/006_tesoreria_contabilidad.md",
+    "COMERCIALIZADORA/012_Tareas_mantenimiento/012_Tareas_mantenimiento.md",
+    "COMERCIALIZADORA/012_Tareas_mantenimiento/Informes CNMC.md",
+    "COMERCIALIZADORA/012_Tareas_mantenimiento/Manual_cron_jobs.md",
+    "COMERCIALIZADORA/005_facturacion/005_facturacion.md",
+    "COMERCIALIZADORA/004_Switching/004_Switching.md",
+    "COMERCIALIZADORA/006_tesoreria_contabilidad",
+    "COMERCIALIZADORA/005_facturacion/Cobrador.md",
+    "COMERCIALIZADORA/005_facturacion/Printeador de Facturas.md",
+    "COMERCIALIZADORA/005_facturacion/Facturador.md",
+    "COMERCIALIZADORA/008_App_cobrador/008_App_cobrador.md",
+    "COMERCIALIZADORA/007_App_printeador_de_facturas/007_App_printeador_de_facturas.md",
+    "COMERCIALIZADORA/004_Switching/Scraping Distribuidoras.md",
+    "COMERCIALIZADORA/005_App_scraping_distribuidoras/005_App_scraping_distribuidoras.md",
+    "COMERCIALIZADORA/013_Onboarding",
+    "COMERCIALIZADORA/002_Atencion_al_cliente",
+    "COMERCIALIZADORA/001_Marketing_redes_sociales",
+    "Sin título 1.base",
     "Sin título.base",
-    "Interesantes",
-    "Interesantes/Wiki_repos_externos_intersantes.md",
-    "Reflexiones_negocio/Pros_y_contras.md",
-    "Sin título.md",
-    "Private & Shared/People d3dea46c450d82dfb0d8014512d331ec/Nacho Alarcon 837ea46c450d83dfb1f6816831c5a64a.md",
-    "Private & Shared/People d3dea46c450d82dfb0d8014512d331ec/Juanmi 401ea46c450d8262b41501129066ff1f.md",
-    "Private & Shared/People d3dea46c450d82dfb0d8014512d331ec/Francisco Martínez López 0d8ea46c450d823a8e7b8109533f8424.md",
+    "Assets/image 8.png",
+    "Assets/image 3.png",
+    "Assets/image 1 1.png",
+    "Assets/Backend_app_contratador_flujo.png",
+    "Assets/image 2 1.png",
+    "Assets/image 3 1.png",
+    "Assets/image 6.png",
+    "Assets/image 5.png",
+    "Assets/imagen.png",
+    "Assets/image.png",
+    "Assets",
+    "Mercado electrico BOEs 161ea46c450d80e59995e668ca3513d2",
+    "Sin título 2.base",
     "Sin título 1.canvas",
-    "Reflexiones_infra",
-    "COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image 3.png",
-    "COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image 2.png",
-    "COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image 1.png",
-    "COMERCIALIZADORA/Doc/Assets/App_scraping_distribuidoras/image.png",
-    "COMERCIALIZADORA/Doc/Facturador 105ea46c450d80588ee1f6bfe64fcf13.md",
-    "COMERCIALIZADORA/Doc/Factura electrónica 174ea46c450d80768642d7eb034cbd08.md",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/DDBB/ReglasDDBB/Reglas_tablas_maestras.md",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/DDBB/ReglasDDBB/Reglas_generales.md",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/Sin nombre 1 1 1 1 1 1/Sin nombre",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/DDBB/ReglasDDBB",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/Sin nombre 1 1 1 1 1 3",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/Sin nombre 1 1 1 1 1 2",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/Liquidaciones",
-    "COMERCIALIZADORA/Doc/Archivos_md 1/Sin nombre 1 1 1 1 1 1",
-    "COMERCIALIZADORA/Doc/Assets/Configuracion_inicial/Guia_para_configurar_proyecto_en_DevContainers/image 1.png",
-    "COMERCIALIZADORA/Doc/Assets/Configuracion_inicial/Guia_para_configurar_proyecto_en_DevContainers/image.png",
-    "COMERCIALIZADORA/Doc/Assets/App_contratador/Backend_app_contratador_flujo.png",
-    "COMERCIALIZADORA/Doc/Assets/Configuracion_inicial/Firma_commit/image 3.png",
-    "COMERCIALIZADORA/Doc/Assets/Configuracion_inicial/Firma_commit/image 2.png",
     "COMERCIALIZADORA/Doc/Assets.canvas",
     "Sin título 2.canvas"
   ]
