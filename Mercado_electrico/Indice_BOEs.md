@@ -2,7 +2,7 @@
 
 [Rango de legislación en España](Mercado%20electrico%20BOEs%20161ea46c450d80e59995e668ca3513d2/Rango%20de%20legislacio%CC%81n%20en%20Espan%CC%83a%2019dea46c450d80f1a94dd91c1179d45b.md)
 
-[Entérate de los cambios del mercado eléctrico:](Entérate_de_los_cambios_del_mercado_eléctrico.md)
+[Entérate de los cambios del mercado eléctrico:](Enterate_de_los_cambios_del_mercado_eléctrico.md)
 
 # BOES PEAJES Y CARGOS
 

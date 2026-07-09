@@ -16,3 +16,10 @@ Usamos este mismo repo como vault.
 
 2026-07-07
 Tanto el 7,8 y 9 le dedicamos algo de tiempo a la comer. Yo a la documentación ordenarla.
+
+2026-07-09
+Nos hemos visto y enseñado la docu, 
+falta encontrar una mejor forma de hacer índices y repasar cada parte juntos.
+Hacer docu de enterate de los cambios del mercado electrico
+Mejorar orden de índice de BOEs
+Incluir enlaces de cosas que hayamos hecho como miro y drawio

@@ -11,10 +11,14 @@
             "id": "08ff574af97c4cbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Assets.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Assets"
             }
           }
         ]
@@ -178,19 +182,24 @@
   },
   "active": "08ff574af97c4cbe",
   "lastOpenFiles": [
+    "COMERCIALIZADORA/COMERCIALIZADORA.md",
     "Mercado_electrico/Mercado_electrico.md",
+    "actas_reuniones.md",
+    "Mercado_electrico/Indice_BOEs.md",
+    "Mercado_electrico/Otros/Otros.md",
+    "Mercado_electrico/Enterate_de_los_cambios_del_mercado_eléctrico.md",
+    "Reflexiones_negocio/Reflexiones_negocio.md",
+    "Reflexiones_infra/Reflexiones_infra.md",
+    "Interesantes/Interesantes.md",
+    "COMERCIALIZADORA/013_Onboarding/013_Onboarding.md",
     "COMERCIALIZADORA/001_Marketing_redes_sociales/Marketing_ideas.md",
     "Mercado_electrico/Terminos_de_factura.md",
-    "COMERCIALIZADORA/COMERCIALIZADORA.md",
     "README_GENERAL.md",
     "README.md",
-    "Mercado_electrico/Entérate_de_los_cambios_del_mercado_eléctrico.md",
     "Mercado_electrico/Glosario.md",
-    "Mercado_electrico/Otros/Otros.md",
     "Mercado_electrico/Otros",
     "Mercado_electrico/Otros/Deficit_de_tarifa.md",
     "Mercado_electrico/Otros/Rango_de_legislacion_en_españa.md",
-    "Mercado_electrico/Indice_BOEs.md",
     "COMERCIALIZADORA/009_Web_cliente/009_Web_cliente.md",
     "COMERCIALIZADORA/006_tesoreria_contabilidad/006_tesoreria_contabilidad.md",
     "COMERCIALIZADORA/012_Tareas_mantenimiento/012_Tareas_mantenimiento.md",
@@ -201,11 +210,6 @@
     "COMERCIALIZADORA/006_tesoreria_contabilidad",
     "COMERCIALIZADORA/005_facturacion/Cobrador.md",
     "COMERCIALIZADORA/005_facturacion/Printeador de Facturas.md",
-    "COMERCIALIZADORA/005_facturacion/Facturador.md",
-    "COMERCIALIZADORA/008_App_cobrador/008_App_cobrador.md",
-    "COMERCIALIZADORA/007_App_printeador_de_facturas/007_App_printeador_de_facturas.md",
-    "COMERCIALIZADORA/004_Switching/Scraping Distribuidoras.md",
-    "COMERCIALIZADORA/005_App_scraping_distribuidoras/005_App_scraping_distribuidoras.md",
     "COMERCIALIZADORA/013_Onboarding",
     "COMERCIALIZADORA/002_Atencion_al_cliente",
     "COMERCIALIZADORA/001_Marketing_redes_sociales",
