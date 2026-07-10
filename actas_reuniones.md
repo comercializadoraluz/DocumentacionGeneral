@@ -23,3 +23,8 @@ falta encontrar una mejor forma de hacer índices y repasar cada parte juntos.
 Hacer docu de enterate de los cambios del mercado electrico
 Mejorar orden de índice de BOEs
 Incluir enlaces de cosas que hayamos hecho como miro y drawio
+
+2026-07-10
+Juanmi usó un nuevo plugins llamado waypoint.
+Fran nada.
+Por ahora las tareas irán a trello, quizás mas adelante a odoo community con el servidor en oracle cloud -> Aqui: https://trello.com/w/comercializadora13/home
