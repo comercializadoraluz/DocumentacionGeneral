@@ -22,9 +22,21 @@ Nos hemos visto y enseñado la docu,
 ✅ falta encontrar una mejor forma de hacer índices y repasar cada parte juntos.
 ❌ Hacer docu de enterate de los cambios del mercado electrico
 ❌ Mejorar orden de índice de BOEs
-❌ Incluir enlaces de cosas que hayamos hecho como miro y drawio
+✅ Incluir enlaces de cosas que hayamos hecho como miro
+✅ Incluir drawio
 
 ✅2026-07-10
 Juanmi usó un nuevo plugins llamado waypoint.
 Fran nada.
 Por ahora las tareas irán a trello, quizás mas adelante a odoo community con el servidor en oracle cloud -> Aqui: https://trello.com/w/comercializadora13/home
+
+✅2026-07-12
+Sabado no quedamos por Fran. Domingo algo Fran.
+Del 13 al 20 tampoco.
+
+✅2026-07-21
+Buscamos el drawio
+
+2026-07-22
+✅ Buscando enlaces.
+❌ Falta aclarar repo de localstack / infra / https://floci.io/
